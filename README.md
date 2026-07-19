@@ -4,7 +4,7 @@ A production-ready portfolio website built for Muhammad Zain — "Building AI Th
 
 ## Tech Stack
 
-- **Next.js 15** (App Router) + **React 19**
+- **Next.js 15**  (App Router) + **React 19**
 - **TypeScript**
 - **Tailwind CSS** — custom premium design token system
 - **Framer Motion** — scroll reveals, page-load sequence, micro-interactions
