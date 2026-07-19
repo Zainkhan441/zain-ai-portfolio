@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://zain-ai.dev/sitemap.xml",
+    sitemap: "https://zain-ai-portfolio.vercel.app/sitemap.xml",
   };
 }
